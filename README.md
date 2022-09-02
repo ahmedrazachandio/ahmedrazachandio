@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
 - 🔭 I’m currently working on [Post Man](ahmadraza.github.io/post-man/)
 
+I have had lots of troubles in my life, most of which never happened.
+
 - 🌱 I’m currently learning **Web and MobileApp Development,**
 
 <h3 align="left">Connect with me:</h3>
