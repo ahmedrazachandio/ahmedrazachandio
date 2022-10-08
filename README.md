@@ -310,6 +310,17 @@ and Hackathons <br>
 		<br>
 		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
 		<br><br>
+		<hr>
+<h3 align="left">Contributions: </h3>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=ahmedrazachandio&amp;theme=react&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+
+<h3 align="left"> Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"></h3>
+
+![snake gif](https://github.com/ahmedrazachandio/ahmedrazachandio/blob/output/github-contribution-grid-snake.gif)
+
+<hr>
+		
 		<img src="https://github-readme-stats.vercel.app/api?username=ahmedrazachandio&show_icons=true&locale=en&count_private=true&theme=cobalt"
 			alt="ahmedrazachandio" />
 		<br> <br>
