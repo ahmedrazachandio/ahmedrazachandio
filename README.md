@@ -37,11 +37,7 @@ and Hackathons <br>
 <a href="https://stackoverflow.com//users/20190142/ahmed-raza" target="_blank" rel="noopener noreferrer"><img src="https://i.pinimg.com/originals/82/c0/4f/82c04f311cbdae05b5c729b9ff6ab588.png" height="95"/></a>
 
 <br>
-<hr>
-<p align="center">
-	جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی
-	جنہیں وسوسوں نے بہکا دیا، وہ قدم قدم پر بھٹک گئے
-</p>
+
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
 <p align="left">
