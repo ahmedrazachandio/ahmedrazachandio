@@ -25,41 +25,18 @@ and Hackathons <br>
 - (hope you see me coming😉) <br>
 
 <hr>
-<h3 align="left">📫 Connect with me on 🔗 :</h3>
-<p align="left">
-	<a href="https://www.linkedin.com/in/shehzadd/" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-			alt="shehzadd" height="40" width="40" /></a>
-	<a href="https://twitter.com/shehza_d_" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-			alt="shehza_d_" height="40" width="40" /></a>
-	<a href="https://www.hackerrank.com/shehza_d" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-			alt="abdulsamadsid1" height="40" width="40" /></a>
-	<a href="https://leetcode.com/ahmedrazachandio/" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-			alt="samadpls" height="40" width="40" /></a>
-	<a href="https://stackoverflow.com/users/18210334/shehzad" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-			alt="stack-overflow" height="40" width="40" /></a>
-	<a href="https://instagram.com/shehza.d" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-			alt="shehza.d" height="40" width="40" /></a>
-	<a href="https://www.youtube.com/channel/UCUTMs216kmgY9lOgBFDckAQ" target="blank"><img align="center"
-			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-			alt="YouTube" height="40" width="40" /></a>
-	<a href="https://g.dev/shehzadd" target="blank"><img align="center" src="./imgs/google-developer-icon.png"
-			title="Google Developer Profile" alt="YouTube" height="40" width="40" /></a>
-	<a href="https://www.upwork.com/freelancers/~01d9a6c55b707b71aa" target="blank"><img align="center"
-			src="./imgs/icons8-upwork.png" alt="Fiver" height="41" width="41" /></a>
-	<a href="https://www.fiverr.com/shehza_d" target="blank"><img align="center" src="./imgs/fiverr2.png" alt="Fiver"
-			height="41" width="41" /></a>
-	<img src="https://komarev.com/ghpvc/?username=ahmedrazachandio&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="ahmedrazachandio" align="right" />
-</p>
+
+
+<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
 <p align="center">
-	<a href="https://github.com/ahmedrazachandio/ahmedrazachandio/discussions" target="_blank">Click here for Discussions and Chit Chat</a>
-</p>
+<a href="https://linkedin.com/in/ahmedrazachandio/" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/0ff78512f45d498526f436fb6bb7c8cc39c7a2a8a3eef8b13df9553c34b3b5e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
+<a href="mailto:ahmadraza.azt@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/1d9a59c6da0107279901779c1f1a96a5aec8a0830399e05eb0aef47d9d565d53/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f676d61696c2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" style="max-width:100%;"></a>
+<a href="https://www.facebook.com/people/ahmedrazachandio/100007686159316/" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/1248785395376b11590e99ea35def3889d84f93beb765cee43874a4700d4c1d1/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f66616365626f6f6b2d6e65772e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/facebook-new.png" style="max-width:100%;"></a>
+<a href="https://api.whatsapp.com/send?phone=03222665676" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/175e706a636868b0dfdea77549b7b337238bc54cd4bfa0286fc4afd33d13a437/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f77686174736170702e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/whatsapp.png" style="max-width:100%;"></a>
+<a href="https://www.youtube.com/channel/ahmadrazachandio" target="_blank" rel="noopener noreferrer"><img src="https://i.pinimg.com/originals/d4/1c/c6/d41cc6d360aeb4d4ea3f61a6c894aaa8.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
+<a href="https://stackoverflow.com//users/20190142/ahmed-raza" target="_blank" rel="noopener noreferrer"><img src="https://i.pinimg.com/originals/82/c0/4f/82c04f311cbdae05b5c729b9ff6ab588.png" height="95"/></a>
+
+<br>
 <hr>
 <p align="center">
 	جو جنوں کی ره پر چل پڑے ، اُنھیں منزلوں نے پناہ دی
