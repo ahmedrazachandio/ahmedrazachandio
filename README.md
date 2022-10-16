@@ -293,9 +293,7 @@ and Hackathons <br>
 <h3 align="left"> Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"></h3>
 
 <!-- ![snake gif](https://github.com/ahmedrazachandio/ahmedrazachandio/blob/output/github-contribution-grid-snake.gif) -->
-
-<hr>
-		
+<hr>		
 		<img src="https://github-readme-stats.vercel.app/api?username=ahmedrazachandio&show_icons=true&locale=en&count_private=true&theme=cobalt"
 			alt="ahmedrazachandio" />
 		<br> <br>
@@ -303,7 +301,6 @@ and Hackathons <br>
 		<br> <br>
 		<img src="https://github-profile-trophy.vercel.app/?username=ahmedrazachandio&theme=discord" alt="ahmedrazachandio" />
 	</p>
-
 </details>
 
 <!-- ahmedrazachandio/ahmedrazachandio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
