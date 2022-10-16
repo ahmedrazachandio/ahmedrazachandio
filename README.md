@@ -256,7 +256,8 @@ and Hackathons <br>
 
 <img src='https://user-badge.committers.top/pakistan/ahmedrazachandio.svg' align="center"
 	title="Ranking in Pakistan for Top Github committer" /></div>
-<img src='https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg' align="center"
+<img src='https://wakatime.com/badge/user/8a6b3873-4181-4273-a710-8c407e586a26.svg' align="center"
+<!--      https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg]( -->
 	title="My Coding Stats" />
 
 <!-- [![wakatime](https://wakatime.com/badge/user/2b9bc0da-3bf8-4082-b333-bc011089fbbb.svg)] -->
