@@ -283,7 +283,7 @@ and Hackathons <br>
 	<p align="center">
 		<img src="https://wakatime.com/share/@8a6b3873-4181-4273-a710-8c407e586a26/d636169f-9b54-4be6-bfbb-6d446703f840.svg" alt="" width="95%">
 		<br>
-		<img src="https://wakatime.com/share/@shehzad/d99396c5-ef1f-42e2-959e-78830f3326ab.svg" alt="" width="95%">
+		<img src="https://wakatime.com/share/@8a6b3873-4181-4273-a710-8c407e586a26/e1762336-c435-40f5-96b9-5e420a74e860.svg" alt="" width="95%">
 		<br><br>
 		<hr>
 <h3 align="left">Contributions: </h3>
