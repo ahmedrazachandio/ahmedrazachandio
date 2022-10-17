@@ -69,9 +69,9 @@ and Hackathons <br>
 		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
 			style="padding-right:10px;" />
 	</a>
-	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
+	<!-- <a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
 		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
-	</a>
+	</a> -->
 	<a href="https://code.visualstudio.com/">
 		<img align="left" alt="VS Code" title="VS Code Making life Easy" width="40" height="40"
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
