@@ -100,6 +100,10 @@ and Hackathons <br>
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="40px" />
 	</a> -->
+		<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+			height="40" />
+	</a>
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
 		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
 	</a>
@@ -141,10 +145,6 @@ and Hackathons <br>
 	<!-- <a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
 	</a> -->
-	<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-			height="40" />
-	</a>
 	<a href="https://mui.com/" target="_blank" title="Material UI (designing)" style="text-decoration: none;">
 		<svg xmlns="http://www.w3.org/2000/svg" width="30" height="32" viewBox="0 0 36 32" fill="none"
 			class="css-1170n61">
