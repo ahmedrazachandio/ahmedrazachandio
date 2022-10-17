@@ -249,6 +249,15 @@ and Hackathons <br>
 			alt="photoshop" width="40" height="40" />
 	</a>
 </p>
+<h3> Credentials 👨‍🎓: </h3>
+
+<p>
+        <img src="https://www.sololearn.com/certificates/CT-M94TO1VW" width="300">
+        <!--
+        <img align="center" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+        <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+        -->
+</p>
 <hr>
 <br>
 <img src='https://user-badge.committers.top/pakistan/ahmedrazachandio.svg' align="center"
