@@ -149,42 +149,6 @@ and Hackathons <br>
 				fill="#007FFF"></path>
 		</svg>
 	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql" width="40" height="40" />
-	</a>
-	<a href="https://www.salesforce.com/in/saas/" target="_blank" title="Software as a service" title="SaaS"
-		style="text-decoration: none;">
-		<img src="./imgs/saas.png" width="40px" />
-	</a>
-	<a href="https://cloud.google.com" target="_blank" rel="noreferrer" title="Google Cloud">
-		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-			height="40" />
-	</a>
-	<a href="https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/?&ef_id=CjwKCAjww8mWBhABEiwAl6-2RUM8S6Ob0bRMIqlES4YKeIVzsU-C2Gy7aJrBW1Y5bkDYJbIRkAaBRRoCSn0QAvD_BwE:G:s&OCID=AIDcmm8ge9eggm_SEM_CjwKCAjww8mWBhABEiwAl6-2RUM8S6Ob0bRMIqlES4YKeIVzsU-C2Gy7aJrBW1Y5bkDYJbIRkAaBRRoCSn0QAvD_BwE:G:s&gclid=CjwKCAjww8mWBhABEiwAl6-2RUM8S6Ob0bRMIqlES4YKeIVzsU-C2Gy7aJrBW1Y5bkDYJbIRkAaBRRoCSn0QAvD_BwE"
-		target="_blank" rel="noreferrer" title="Microsoft Azure">
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
-			height="40" />
-	</a>
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-			alt="aws" width="40" height="40" />
-	</a>
-	<a href="https://www.w3schools.com/sql/sql_intro.asp#:~:text=What%20is%20SQL%3F,for%20Standardization%20(ISO)%20in%201987"
-		target="_blank" title="" title="SQL" style="text-decoration: none;">
-		<img src="./imgs/sql-server.png" width="40px" />
-	</a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="GNU Bash (unix)">
-		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-	</a>
-	<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"
-		title="Cockroach DataBase">
-		<img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40" />
-	</a>
-	<a href="	https://www.cloudflare.com/learning/cdn/what-is-a-cdn/" target="_blank" title="AWS Cloud Development Kit"
-		title="" style="text-decoration: none;">
-		<img src="./imgs/cloudflare.png" width="40px" />
-	</a>
 	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title="ChartJS">
 		<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
 	</a>
