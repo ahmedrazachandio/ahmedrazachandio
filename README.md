@@ -20,7 +20,7 @@ and Hackathons <br>
 - ⛳️ MY 2022 Goal is Mastering JavaScript<br>
 <!-- - 🏆 I am a <b>Certified Full-Stack Developer</b><br> -->
 - A passionate Full-Stack Developer from Karachi, Pakistan❤️<br>
-- Learning from Saylani MIT and PIAIC❤️<br>
+- Learning from Saylani Mass It Training.❤️<br>
 - (hope you see me coming😉) <br>
 
 <hr>
