@@ -56,10 +56,6 @@ and Hackathons <br>
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 			style="padding-right:10px;" />
 	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
-		style="text-decoration: none;">
-		<img src="./imgs/svgs/cpp.svg" alt="cplusplus" width="45" height="45" for DSA and Competative Programming />
-	</a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" title="HTML5" width="40" height="40" />
