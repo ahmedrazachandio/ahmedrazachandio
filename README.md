@@ -149,17 +149,6 @@ and Hackathons <br>
 				fill="#007FFF"></path>
 		</svg>
 	</a>
-	<a href="https://d3js.org/" target="_blank" rel="noreferrer" title="Library for manipulating documents on Data">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
-			width="40" height="40" />
-	</a>
-	<a href="https://www.cypress.io" target="_blank" rel="noreferrer" title="Full Web Testing">
-		<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-			alt="cypress" width="40" height="40" />
-	</a>
-	<a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer" title="Progressive Web Apps">
-		<img src="./imgs/pwa2.png" alt="PWA" width="55" height="35" />
-	</a>
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
 			alt="postgresql" width="40" height="40" />
