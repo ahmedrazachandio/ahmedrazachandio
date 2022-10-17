@@ -255,6 +255,7 @@ and Hackathons <br>
         <img src="imgs/resposive.jpg" width="200">
         <img src="imgs/sql.png" width="200">
         <img src="imgs/js.png" width="200">
+        <img src="imgs/great-learning.jpg" width="200">
 </p>
 <hr>
 <br>
