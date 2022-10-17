@@ -39,24 +39,7 @@ and Hackathons <br>
 
 <hr>
 <h3 align="left">Languages and Tools ⚙️ : </h3>
-<p align="left">
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
-			height="40" />
-	</a>
-	<a href="#">
-		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
-			style="padding-right:10px;" />
-	</a>
-	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
-		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
-	</a>
-	<a href="https://code.visualstudio.com/">
-		<img align="left" alt="VS Code" title="VS Code Making life Easy" width="40" height="40"
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-			style="padding-right:10px;" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML 5">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
 			alt="html5" title="HTML5" width="40" height="40" />
 	</a>
@@ -76,6 +59,23 @@ and Hackathons <br>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React" style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react" width="40" height="40" />
+	</a>
+<p align="left">
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40"
+			height="40" />
+	</a>
+	<a href="#">
+		<img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="./imgs/github.png"
+			style="padding-right:10px;" />
+	</a>
+	<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview">
+		<img align="left" alt="Terminal" title="Command Line" width="40" height="40" src="./imgs/terminal.png" />
+	</a>
+	<a href="https://code.visualstudio.com/">
+		<img align="left" alt="VS Code" title="VS Code Making life Easy" width="40" height="40"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+			style="padding-right:10px;" />
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="ExpressJS for Servers">
 		<img src="./imgs/express-js.png" alt="express" width="40" height="40" />
