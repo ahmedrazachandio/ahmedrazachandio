@@ -91,25 +91,25 @@ and Hackathons <br>
 		style="text-decoration: none;">
 		<img src="./imgs/svgs/mongodb.svg" alt="mongodb" width="40" height="40" />
 	</a>
-	<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
+	<!-- <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
 		title="NodeJS JavaScript Engin used for BackEnd" style="text-decoration: none;">
 		<img src="./imgs/svgs/nodejs.svg" alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
-	</a>
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
+	</a> -->
+	<!-- <a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
 		<img src="./imgs/dialogflow.png" width="40px" />
-	</a>
+	</a> -->
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
 		<img src="./imgs/icons8-npm-48.png" alt="NPM" width="40" height="40" />
 	</a>
-	<a href="https://socket.io/" target="_blank" rel="noreferrer"
+	<!-- <a href="https://socket.io/" target="_blank" rel="noreferrer"
 		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
-	</a>
-	<a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
+	</a> -->
+	<!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
 		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-	</a>
+	</a> -->
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 	</a>
@@ -121,8 +121,10 @@ and Hackathons <br>
 	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="ReactNative for Mobile Apps">
 		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
 	</a>
-	<a href="https://surge.sh/" target="_blank" title="Surge Static Web publishing" style="text-decoration: none;">
-		<img src="./imgs/surge-logo.svg" width="40px" />
+	<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
+		title="NodeJS JavaScript Engin used for BackEnd" style="text-decoration: none;">
+		<img src="./imgs/svgs/nodejs.svg" alt="nodejs" width="40" height="40" />
+		<!-- https://nodejs.org -->
 	</a>
 	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="ElectronJS for Desktop Apps">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
