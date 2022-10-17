@@ -112,6 +112,8 @@ and Hackathons <br>
 	<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
 	</a> -->
+	<img src="https://komarev.com/ghpvc/?username=ahmedrazachandio&label=Profile%20views&color=11eb11&style=for-the-badge"
+		alt="ahmedrazachandio" align="right" />
 </p>
 <hr>
 <h3 align="left">🏫 Plans of Learning :</h3>
