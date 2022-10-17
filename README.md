@@ -11,8 +11,8 @@
 
 <hr>
 <h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
-- 🌱 I’m currently learning <b>Web Development, REACT JS</b><br>
-- 👀 I am interested in Programming, Cyber Security, BlockChain(smart contracts), HackerRank, Photo/Video Editing and in
+- 🌱 I’m currently learning <b>Web Development, JavaScript REACT JS</b><br>
+- 👀 I am interested in Programming and Backend Development
 Bug Bounty
 and Hackathons <br>
 - 💞️ Always looking forward to collaborate on projects<br>
