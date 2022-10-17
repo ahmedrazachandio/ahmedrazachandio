@@ -253,7 +253,7 @@ and Hackathons <br>
 
 <p>
         <img src="imgs/css.jpg" width="300">
-        <img src="imgs/responsive.png" width="300">
+        <img src="imgs/resposive.jpg" width="300">
         <img src="imgs/sql.png" width="300">
         <img src="imgs/js.png" width="300">
 </p>
