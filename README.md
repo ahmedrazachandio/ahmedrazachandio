@@ -94,7 +94,7 @@ and Hackathons <br>
 	<!-- <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank" rel="noreferrer"
 		title="NodeJS JavaScript Engin used for BackEnd" style="text-decoration: none;">
 		<img src="./imgs/svgs/nodejs.svg" alt="nodejs" width="40" height="40" />
-		<!-- https://nodejs.org -->
+		 https://nodejs.org 
 	</a> -->
 	<!-- <a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
