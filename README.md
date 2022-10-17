@@ -110,9 +110,9 @@ and Hackathons <br>
 	<!-- <a href="https://babeljs.io/" target="_blank" rel="noreferrer" title="BabelJS">
 		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
 	</a> -->
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+	<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-	</a>
+	</a> -->
 </p>
 <hr>
 <h3 align="left">🏫 Plans of Learning :</h3>
@@ -126,21 +126,21 @@ and Hackathons <br>
 		<img src="./imgs/svgs/nodejs.svg" alt="nodejs" width="40" height="40" />
 		<!-- https://nodejs.org -->
 	</a>
-	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="ElectronJS for Desktop Apps">
+	<!-- <a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="ElectronJS for Desktop Apps">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
 			alt="electron" width="40" height="40" />
-	</a>
-	<a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis DataBase">
+	</a> -->
+	<!-- <a href="https://redis.io" target="_blank" rel="noreferrer" title="Redis DataBase">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
 			alt="redis" width="40" height="40" />
-	</a>
-	<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="GatsByJS"
+	</a> -->
+	<!-- <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="GatsByJS"
 		style="text-decoration: none;">
 		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
-	</a>
-	<a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
+	</a> -->
+	<!-- <a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-	</a>
+	</a> -->
 	<a href="https://postman.com" target="_blank" rel="noreferrer" title="API testing with Postman">
 		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
 			height="40" />
