@@ -56,11 +56,11 @@ and Hackathons <br>
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 			style="padding-right:10px;" />
 	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
+	<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux Ubuntu 22 (Daily Driver)"
 		style="text-decoration: none;">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
 			width="40" height="40" />
-	</a>
+	</a> -->
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" title="from FG College"
 		style="text-decoration: none;">
 		<img src="./imgs/svgs/cpp.svg" alt="cplusplus" width="45" height="45" for DSA and Competative Programming />
