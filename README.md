@@ -253,8 +253,9 @@ and Hackathons <br>
 
 <p>
         <img src="imgs/css.jpg" width="300">
-        <img align="center" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
-        <img align="right" src="https://www.sololearn.com/certificates/course/en/23350203/1024/landscape/png" width="300">
+        <img src="imgs/responsive.jpg" width="300">
+        <img src="imgs/sql.jpg" width="300">
+        <img src="imgs/js.jpg" width="300">
 </p>
 <hr>
 <br>
