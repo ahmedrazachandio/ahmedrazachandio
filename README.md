@@ -159,35 +159,9 @@ and Hackathons <br>
 				src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg"
 				alt="realm" width="40" height="40" /> </a>
 	</a>
-	<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="Tensorflow">
-		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-			height="40" />
-	</a>
-	<a href="https://aws.amazon.com/lambda/features/" target="_blank" title="Lambda" title="Lambda"
-		style="text-decoration: none;">
-		<img src="./imgs/lambda.png" width="40px" />
-	</a>
 	<a href="https://formik.org/" target="_blank" title="Build Form in REACT" style="text-decoration: none;">
 		<img src="./imgs/formik.png" width="40px" />
 		<!-- npm  https://www.npmjs.com/package/yup -->
-	</a>
-	<a href="https://miragejs.com/tutorial/intro/" target="_blank" title="API Mocking Servers with Mirage.JS"
-		style="text-decoration: none;">
-		<svg viewBox="0 0 79 69" fill="none" width="50px" class="w-8 sm:w-10">
-			<path fill-rule="evenodd" clip-rule="evenodd"
-				d="M0 46.081a2 2 0 012-2h74.724a2 2 0 110 4H2a2 2 0 01-2-2zM15.35 56.081c0-1.103.893-1.997 1.996-1.997h44.031a1.997 1.997 0 010 3.994H17.346a1.997 1.997 0 01-1.997-1.997zM30.694 66.081a2 2 0 012-2h13.335a2 2 0 010 4H32.694a2 2 0 01-2-2z"
-				fill="#05C77E"></path>
-			<path fill-rule="evenodd" clip-rule="evenodd"
-				d="M51.736 14.254a2 2 0 011.67 1.021L70.12 45.103a2 2 0 11-3.49 1.956L51.517 20.087l-7.785 11.725A2 2 0 0140.4 29.6l9.595-14.453a2 2 0 011.741-.893z"
-				fill="#05C77E"></path>
-			<path
-				d="M54.661.125c7.183 0 13.006 5.823 13.006 13.006 0 5.638-3.587 10.438-8.604 12.242l-1.869-3.337a9.26 9.26 0 006.723-8.905 9.256 9.256 0 10-18.512 0c0 2.207.772 4.233 2.062 5.824l-2.144 3.23a12.963 12.963 0 01-3.668-9.054c0-7.183 5.823-13.006 13.006-13.006z"
-				fill="#05C77E"></path>
-			<path fill-rule="evenodd" clip-rule="evenodd"
-				d="M29.522 9.868a2 2 0 011.74.906l22.33 34.214a2 2 0 01-3.349 2.186L29.715 15.721l-17.624 31.34a2 2 0 01-3.486-1.96l19.24-34.214a2 2 0 011.677-1.019z"
-				fill="#05C77E"></path>
-		</svg>
-		<!-- https://miragejs.com/ -->
 	</a>
 	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
