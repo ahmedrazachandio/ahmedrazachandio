@@ -263,10 +263,10 @@ and Hackathons <br>
 <img src='https://user-badge.committers.top/pakistan/ahmedrazachandio.svg' align="center"
 	title="Ranking in Pakistan for Top Github committer" /></div>
 <img src='https://wakatime.com/badge/user/8a6b3873-4181-4273-a710-8c407e586a26.svg' align="center" title="My Coding Stats" />
-<div align='center'>
+<!-- <div align='center'>
 	<h3> ✍️ Random Dev Quote </h3>
 	<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' />
-</div>
+</div> -->
 <hr>
 <br>
 <details>
