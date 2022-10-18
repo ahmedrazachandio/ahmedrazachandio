@@ -169,10 +169,10 @@ and Hackathons <br>
 			alt="photoshop" width="40" height="40" />
 	</a>
 </p>
-<h3> Credentials 👨‍🎓: </h3>
+<h3> Certificates 👨‍🎓: </h3>
 
 <p>
-        <img src="imgs/css.jpg" width="200">
+        <img src="imgs/html.jpg" width="200">
         <img src="imgs/css.jpg" width="200">
         <img src="imgs/resposive.jpg" width="200">
         <img src="imgs/sql.png" width="200">
