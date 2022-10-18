@@ -169,7 +169,7 @@ and Hackathons <br>
 </p>
 <h3> Certificates 👨‍🎓: </h3>
 
-<p>
+<p style="background-color: black">
         <img src="imgs/html.jpg" width="200">
         <img src="imgs/css.jpg" width="200">
         <img src="imgs/resposive.jpg" width="200">
