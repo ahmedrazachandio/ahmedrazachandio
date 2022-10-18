@@ -137,7 +137,7 @@ and Hackathons <br>
 	</a> -->
 	<!-- <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="GatsByJS"
 		style="text-decoration: none;">
-		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" />
+		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
 	</a> -->
 	<!-- <a href="https://graphql.org" target="_blank" rel="noreferrer" title="Client Side GraphQL in React Apps">
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
