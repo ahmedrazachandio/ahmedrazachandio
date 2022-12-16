@@ -10,7 +10,7 @@
 	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <hr>
-<h3 style="margin-top: 4px;">MAKING CODE BENEFICIAL!</h3>
+<h3 style="margin-top: 4px;">Make it work, Make it Right, Make it Fast,</h3>
 - 🌱 I’m currently learning <b>Web Development, JavaScript REACT JS</b><br>
 - 👀 I am interested in Programming and Backend Development
 Bug Bounty
